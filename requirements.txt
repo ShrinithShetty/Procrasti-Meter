@@ -1,0 +1,5 @@
+pandas
+scikit-learn==1.5.0
+imbalanced-learn
+joblib
+streamlit
